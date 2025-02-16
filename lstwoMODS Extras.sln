@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lstwoMODS Extras", "lstwoMODS Extras.csproj", "{A4C3B9F4-B7C8-4298-A068-12CB888779BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4C3B9F4-B7C8-4298-A068-12CB888779BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C3B9F4-B7C8-4298-A068-12CB888779BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C3B9F4-B7C8-4298-A068-12CB888779BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C3B9F4-B7C8-4298-A068-12CB888779BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBB9F375-D6E0-46DF-9FC4-91903937C76B}
+	EndGlobalSection
+EndGlobal
