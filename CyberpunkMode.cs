@@ -26,7 +26,7 @@ namespace NotAzzamods.Hacks
                 {
                     rb.collisionDetectionMode = CollisionDetectionMode.Discrete;
                 }
-            }, "Apply");
+            }, "Apply", "lstwo.CyberpunkMode.Enable");
 
             ui.AddSpacer(6);
         }

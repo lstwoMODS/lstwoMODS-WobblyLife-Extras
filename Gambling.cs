@@ -27,7 +27,7 @@ namespace NotAzzamods.Hacks
 
             ui.AddSpacer(6);
 
-            ui.CreateToggle("gamblingToggle", "Enable Gambling", (b) => enableGambling = b);
+            ui.CreateToggle("lstwo.Gambling.Enable", "Enable Gambling", (b) => enableGambling = b);
 
             ui.AddSpacer(6);
         }

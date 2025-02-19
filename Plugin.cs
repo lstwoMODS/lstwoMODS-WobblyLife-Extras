@@ -1,6 +1,6 @@
 ﻿using BepInEx;
 
-namespace lstwoMODS_Extras
+namespace lstwoMODS_Wobbly_Life_Extras
 {
     [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
     public class Plugin : BaseUnityPlugin

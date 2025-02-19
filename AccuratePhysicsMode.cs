@@ -22,11 +22,11 @@ namespace NotAzzamods.Hacks
 
             ui.CreateLBDuo("Enable (Cannot be disabled)", "name", () =>
             {
-                foreach (var rb in UnityEngine.Object.FindObjectsOfType<Rigidbody>())
+                foreach (var rb in Object.FindObjectsOfType<Rigidbody>())
                 {
                     rb.collisionDetectionMode = CollisionDetectionMode.Continuous;
                 }
-            }, "Apply");
+            }, "Apply", "lstwo.AccuratePhysicsMode.Enable");
 
             ui.AddSpacer(6);
         }

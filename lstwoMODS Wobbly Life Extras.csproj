@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net46</TargetFramework>
-    <AssemblyName>lstwoMODS_Extras</AssemblyName>
+    <AssemblyName>lstwoMODS_WobblyLife_Extras</AssemblyName>
     <Description>Features that shouldn't be in lstwoMODS</Description>
     <Version>1.0.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>

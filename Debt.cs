@@ -27,8 +27,8 @@ namespace NotAzzamods.Hacks
 
             ui.AddSpacer(6);
 
-            ui.CreateToggle("", "Enable Debt", (b) => bEnableDebt = b);
-            ui.CreateToggle("", "Double Charges While In Debt", (b) => bDoubleDebt = b, true);
+            ui.CreateToggle("lstwo.Debt.Enable", "Enable Debt", (b) => bEnableDebt = b);
+            ui.CreateToggle("lstwo.Debt.DoubleCharges", "Double Charges While In Debt", (b) => bDoubleDebt = b, true);
 
             ui.AddSpacer(6);
         }
