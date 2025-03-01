@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lstwoMODS Wobbly Life Extras", "lstwoMODS Wobbly Life Extras.csproj", "{A4C3B9F4-B7C8-4298-A068-12CB888779BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lstwoMODS WobblyLife Extras", "lstwoMODS WobblyLife Extras.csproj", "{A4C3B9F4-B7C8-4298-A068-12CB888779BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

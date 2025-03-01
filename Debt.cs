@@ -10,9 +10,7 @@ namespace NotAzzamods.Hacks
     public class Debt : BaseHack
     {
         public override string Name => "Debt Mod";
-
         public override string Description => "";
-
         public override HacksTab HacksTab => lstwoMODS_WobblyLife.Plugin.ExtraHacksTab;
 
         public static bool bEnableDebt = false;
